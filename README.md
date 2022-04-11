@@ -29,7 +29,8 @@
   
   <div>
     <h1>📱 Contact</h2>
-     <a href="https://wa.me/5588997328109" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href="discord.com/channels/sry#0022" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jarlesssayhre.2012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jarlesssayhre.2012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
    

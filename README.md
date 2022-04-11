@@ -26,12 +26,17 @@
   <img align="center" alt="Jarlez-ANGULAR" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
   
 </div>
+  
+  <div>
+    <h1>📱 Contact</h2>
+     <a href="https://wa.me/5588997328109" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="jarlesssayhre.2012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
    
   ****
   
   <h1> More about me</h1>
   <a href="https://www.behance.net/jarlessayhare1" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
-  
   <img align="center" alt="Jarlez-PS" src="https://aleen42.github.io/badges/src/photoshop.svg">
 
 

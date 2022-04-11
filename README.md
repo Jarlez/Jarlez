@@ -2,13 +2,17 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- ✅ FrontEnd developer, Graphic designer, Technical support
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 💻 Studying hard and developing projects
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 💼 Accepting projects or job offers
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🧑🏽‍ Junior developer
+
+- 🟩🟨🟦 Brazilian
+
+- 💬 Ask me about anything [here](https://github.com/Jarlez/Jarlez/issues)
 
 <div align="center">
   <a href="https://github.com/Jarlez">

@@ -11,7 +11,7 @@
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <div align="center">
-  
+  <a href="https://github.com/Jarlez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jarlez&theme=midnight-purple&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarlez&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
@@ -29,9 +29,9 @@
    
   ****
   
-  <h1> 🎨🎨Designer</h1>
+  <h1> More about me</h1>
+  <a href="https://www.behance.net/jarlessayhare1" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
   
-  <img align="center" alt="Jarlez-BEHANCE" href="https://www.behance.net/jarlessayhare1" src="https://aleen42.github.io/badges/src/behance.svg">
   <img align="center" alt="Jarlez-PS" src="https://aleen42.github.io/badges/src/photoshop.svg">
 
 

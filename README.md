@@ -12,7 +12,6 @@
 
 - 🟩🟨🟦 Brazilian
 
-- 💬 Ask me about anything [here](https://github.com/Jarlez/Jarlez/issues)
 
 <div align="center">
   <a href="https://github.com/Jarlez">

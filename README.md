@@ -10,7 +10,7 @@
 
 - 🧑🏽‍ Desenvolvedor Junior
 
-- Fazendo pós graduação em Desenvolvimento para aplicações WEB pela UNIPÊ-PB
+- 📚 Fazendo pós graduação em Desenvolvimento para aplicações WEB pela UNIPÊ-PB
 
 
 <div align="center">

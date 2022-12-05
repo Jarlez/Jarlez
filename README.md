@@ -1,4 +1,4 @@
-## Olá amigo
+## Olá 😀
 
 **Sobre mim**
 

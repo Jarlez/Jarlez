@@ -4,7 +4,7 @@
 
 - ✅ Desenvolvedor Front-End, Designer gráfico, Editor de vídeo e Suporte técnico
 
-- 💻 Estudando e desenvolvendo projetos
+- 💻 Estudando e desenvolvendo 
 
 - 💼 Aceitando projetos e ofertas de emprego
 

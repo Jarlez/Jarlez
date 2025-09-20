@@ -6,11 +6,9 @@
 
 - 💻 Estudando e desenvolvendo 
 
-- 💼 Aceitando projetos e ofertas de emprego
-
 - 🧑🏽‍ Desenvolvedor Junior
 
-- 📚 Fazendo pós graduação em "Desenvolvimento para aplicações WEB"  pela UNIPÊ-PB
+- 📚 Pós graduação em "Desenvolvimento para aplicações WEB"  pela UNIPÊ-PB
 
 
 <div align="center">

@@ -2,13 +2,13 @@
 
 **Sobre mim**
 
-- ✅ Desenvolvedor Front-End, Designer gráfico, Editor de vídeo e Suporte técnico
+- ✅ Desenvolvedor Front-End & UI/UX
 
 - 💻 Estudando e desenvolvendo 
 
 - 🧑🏽‍ Desenvolvedor Junior
 
-- 📚 Pós graduação em "Desenvolvimento para aplicações WEB"  pela UNIPÊ-PB
+- 📚 Pós graduação em Desenvolvimento para aplicações WEB 
 
 
 <div align="center">
@@ -18,12 +18,16 @@
 </div>
   
 <div style="display: inline_block"><br>
-    <h1>👨‍💻 Tecnologias aprendidas</h2>
+    <h1>👨‍💻 Tecnologias aplicadas</h2>
+  <img align="center" alt="Jarles-Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align="center" alt="Jarles-Quasar" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
+  <img align="center" alt="Jarles-NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img align="center" alt="Jarles-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Jarles-Tailwind" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Jarlez-HTML5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Jarlez-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Jarlez-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Jarlez-NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Jarlez-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Jarlez-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   
 </div>

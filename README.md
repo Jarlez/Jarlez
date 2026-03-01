@@ -11,11 +11,6 @@
 - 📚 Pós graduação em Desenvolvimento para aplicações WEB 
 
 
-<div align="center">
-  <a href="https://github.com/Jarlez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jarlez&theme=midnight-purple&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarlez&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
   
 <div style="display: inline_block"><br>
     <h1>👨‍💻 Tecnologias aplicadas</h2>
@@ -50,12 +45,11 @@
 <div>
   <h1> 💻 Estudando</h1>
   <img align="center"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
   <img align="center"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
 </div>
 
 
